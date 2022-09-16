@@ -12,16 +12,16 @@ You can click the Preview link to take a look at your changes.
 - <b>Projects</b>
   - [Project Here](https://github.com/ArminToric28)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ArminToric28)
-  - [JWipe (Disk Wiping Utility)](https://github.com/ArminToric28)
-  - [Active Directory Bulk User Creation](https://github.com/ArminToric28)
-  - [FIM (File Integrity Monitor)](https://github.com/ArminToric28)
+  - [PowerShell Scripts Here](https://github.com/ArminToric28)
+  - [(Disk Wiping Utility)](https://github.com/ArminToric28)
+  - [Active Directory](https://github.com/ArminToric28)
+  - [FIM](https://github.com/ArminToric28)
 - <b>Bash</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/ArminToric28)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/ArminToric28)
   - [Keylogger with Email Capability](https://github.com/ArminToric28)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Python Projects](https://github.com/ArminToric28)
 
 <h2>🌱 Certifications</h2>
 
