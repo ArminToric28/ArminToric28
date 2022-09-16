@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - <b>Writeups</b>
   - [THM-Password Attacks](https://github.com/ArminToric28)
 - <b>Projects</b>
-  - [Project Here](https://github.com/ArminToric28)
+  - [Glassfish Exploit w/ Metasploit](https://github.com/ArminToric28/Glassfish_Exploit)
 - <b>PowerShell</b>
   - [PowerShell Scripts Here](https://github.com/ArminToric28)
   - [(Disk Wiping Utility)](https://github.com/ArminToric28)
