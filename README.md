@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 - <b>Projects</b>
   - [Eternalblue Exploit](https://github.com/ArminToric28/EternalBlue-Exploit)
   - [Glassfish Exploit w/ Metasploit](https://github.com/ArminToric28/Glassfish_Exploit)
+  - [Jenkins Exploit w/ Privilege Escalation](https://github.com/ArminToric28/Jenkins-Service-Exploit-PrivEsc)
 - <b>PowerShell</b>
   - [PowerShell Scripts Here](https://github.com/ArminToric28)
   - [(Disk Wiping Utility)](https://github.com/ArminToric28)
