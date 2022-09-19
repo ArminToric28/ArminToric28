@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Writeups</b>
+  - [LetsDefend SQLi Incident Response Writeup](https://github.com/ArminToric28/Incident-Response-Writeup)
   - [THM-Password Attacks](https://github.com/ArminToric28/THM-PasswordAttacks)
 - <b>Projects</b>
   - [Eternalblue Exploit](https://github.com/ArminToric28/EternalBlue-Exploit)
