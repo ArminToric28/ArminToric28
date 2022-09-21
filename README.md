@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Writeups</b>
+  - [LetsDefend SQLi LinkedIn Article Link](https://www.linkedin.com/feed/update/urn:li:ugcPost:6977699063471243264?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6977699063471243264%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
   - [LetsDefend SQLi Incident Response Writeup](https://github.com/ArminToric28/Incident-Response-Writeup)
   - [THM-Password Attacks](https://github.com/ArminToric28/THM-PasswordAttacks)
 - <b>Projects</b>
