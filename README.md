@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   - [PowerShell Scripts Here](https://github.com/ArminToric28)
   - [FIM/WIP](https://github.com/ArminToric28)
 - <b>Bash</b>
-  - [WIP)](https://github.com/ArminToric28)
+  - [WIP](https://github.com/ArminToric28)
 - <b>Python</b>
   - [Python Projects](https://github.com/ArminToric28)
 
